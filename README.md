@@ -5,6 +5,7 @@ In this work, to accelerate the intrinsic modulation of catalysts in Li-S batter
 
 # DOL and Li2S6
 descriptor.py: calculate the designed hybrid multi-view descriptor (HMVD) that describes compositional, structural, and binding features.
+
 model.py: train the model by using five-fold cross-validations.
 
 # Citing
