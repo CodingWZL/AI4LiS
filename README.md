@@ -9,4 +9,4 @@ descriptor.py: calculate the designed hybrid multi-view descriptor (HMVD) that d
 model.py: train the model by using five-fold cross-validations.
 
 # Citing
-Decoding Local Chemical Environments of Catalysts in Sulfur Redox Reactions Using Interpretable Machine Learning. Yeyang Jia†, Zhilong Wang†, Zhiyuan Han†, Junfeng Li, Mengtian Zhang, Zhoujie Lao, Yanqiang Han, Runhua Gao, Jing Gao, Zhiyang Zheng, An Chen, Hong Li, Rui Mao, Kehao Tao, Jinjin Li*, Guangmin Zhou*. Submittd (2024)
+Yeyang Jia†, Zhilong Wang†, Zhiyuan Han†, Junfeng Li, Mengtian Zhang, Zhoujie Lao, Yanqiang Han, Runhua Gao, Jing Gao, Zhiyang Zheng, An Chen, Hong Li, Rui Mao, Kehao Tao, Jinjin Li*, Guangmin Zhou*. Submittd (2024)
