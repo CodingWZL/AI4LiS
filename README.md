@@ -9,4 +9,4 @@ descriptor.py: calculate the designed hybrid multi-view descriptor (HMVD) that d
 model.py: train the model by using five-fold cross-validations.
 
 # Citing
-Yeyang Jia†, Zhilong Wang†, Zhiyuan Han†, Junfeng Li, Mengtian Zhang, Zhoujie Lao, Yanqiang Han, Runhua Gao, Jing Gao, Zhiyang Zheng, An Chen, Hong Li, Rui Mao, Kehao Tao, Jinjin Li*, Guangmin Zhou*. Submittd (2024)
+Yeyang Jia#, Zhilong Wang#, Zhiyuan Han#, Junfeng Li, Mengtian Zhang, Zhoujie Lao, Yanqiang Han, Runhua Gao, Jing Gao, Zhiyang Zheng, An Chen, Hong Li, Rui Mao, Kehao Tao, Jinjin Li*, Guangmin Zhou*. Variable and Intelligent Catalyst Design Based on Local Chemical Environments in Sulfur Redox Reactions. Joule 101878 (2025). https://doi.org/10.1016/j.joule.2025.101878
